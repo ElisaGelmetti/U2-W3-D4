@@ -1,0 +1,24 @@
+.avatar{
+    width: 40px;
+    border-radius: 100%;
+margin-top: 0px;
+margin-left: 620px;
+}
+svg{
+    border-radius: 100%;
+
+}
+#hero{
+    background-color: rgb(118, 77, 230);
+}
+
+#span1{
+    background-color: rgb(107, 224, 107)!important;
+}
+#span2{
+    background-color: white!important;
+    color: black;
+}
+h3 p {
+    color: gray;
+}
